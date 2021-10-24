@@ -33,3 +33,5 @@ No **bloatware**
 Patched *'ro.vmos.simplest.rom'* to *false*
 
 *Flux theme* is installed
+
+Download from [**Google Drive**](https://drive.google.com/file/d/1-NRvhT3i_DECt2x7sNR7n0kLjisV3EUF/view?usp=drivesdk)
